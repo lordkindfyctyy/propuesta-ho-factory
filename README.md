@@ -36,3 +36,5 @@ Cada vez:
 ## Pendiente
 
 Precios por mayor, pedido mínimo, envío, zonas, precio correcto de los Nidos y fotos finales.
+
+Condiciones de socio (en la propuesta): link `register.php?socio=HOFACTORY`, clientes sin mes de prueba, plan Pro $15.990/mes, 30 % de lo que queda después de Mercado Pago, pago mensual por transferencia. Falta definir si el 30 % es para siempre o por un plazo.
